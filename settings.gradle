@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Pantalla_Comparativo_De_Rendimiento_Neto"

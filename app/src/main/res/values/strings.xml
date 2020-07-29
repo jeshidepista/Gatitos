@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Pantalla_Comparativo_De_Rendimiento_Neto</string>
     <string name="botom">Continuar</string>
+    <!--selecciona_afore-->
+    <string name="FOLIO">Folio de Conocimiento de Traspaso</string>
+    <string name="AFORE">Selecciona la AFORE deseada</string>
 </resources>
